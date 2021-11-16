@@ -1,0 +1,14 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 36FF-563F
+
+ Pasta de C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\projeto
+
+16/11/2021  18:02    <DIR>          .
+16/11/2021  18:02    <DIR>          ..
+16/11/2021  17:23             2.581 .gitattributes
+16/11/2021  17:23             4.077 .gitignore
+16/11/2021  17:57    <DIR>          projeto
+16/11/2021  17:23               988 projeto.sln
+16/11/2021  18:02                 0 teste.txt
+               4 arquivo(s)          7.646 bytes
+               3 pasta(s)   307.925.786.624 bytes dispon°veis
