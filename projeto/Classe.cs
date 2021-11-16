@@ -8,5 +8,6 @@ namespace projeto
 {
     class Classe
     {
+        string nome;
     }
 }
